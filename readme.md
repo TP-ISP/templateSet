@@ -16,7 +16,7 @@ npm install
 
 you will download the neccessary package like react, babel, bootstrap.
 
-if ther is no error, 
+if there is no error, 
 
 ``` javascript
 
@@ -24,4 +24,4 @@ npm run dev
 
 ```
 
-then you can visit the [http://localghost:8080](http://localghost:8080)
+then you can visit the [http://localhost:8080](http://localghost:8080)
