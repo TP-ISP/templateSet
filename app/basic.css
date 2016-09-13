@@ -91,7 +91,11 @@ img {
 }
 
 .section {
+<<<<<<< HEAD
   margin: 0 24px 48px;
+=======
+	margin: 0 24px 48px;
+>>>>>>> 0828128edbe720d4d9ee7f549c6e14f809f56e8d
 }
 
 .section:last-child {
