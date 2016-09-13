@@ -12,7 +12,6 @@ export default class Button extends React.Component {
 
 
   render(){
-  	
     return (
       <section className="section">
         <h2 className="sub-title">Vertically Aligned Users</h2>
